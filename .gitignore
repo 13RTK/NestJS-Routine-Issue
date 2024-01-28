@@ -1,0 +1,4 @@
+**/node_modules/
+**/dist/
+**/test/
+**/pnpm-lock.yaml
